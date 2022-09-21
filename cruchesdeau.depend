@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1614767518 source:c:\users\ainball\desktop\s2\methode de resolution\resolution de probleme\cruchesdeau\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1614973572 source:c:\users\ainball\desktop\s2\methode de resolution\resolution de probleme\cruchesdeaulargeur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
